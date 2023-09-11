@@ -1,6 +1,10 @@
 ---
-name: Problems when using
+name: Prolems when using IMP
 about: Please use this template if you meet some errors when using IMP
+title: ''
+labels: bug
+assignees: Tong-Chen
+
 ---
 
 ## ISSUE DESCRIPTION

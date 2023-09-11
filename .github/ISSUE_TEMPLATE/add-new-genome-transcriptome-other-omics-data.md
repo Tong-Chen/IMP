@@ -1,6 +1,12 @@
 ---
-name: Problems when using
-about: If you have genomes of species that are the focus of your research and they have been sequenced but are not included in IMP, please do not hesitate to create an issue using this template.
+name: Add new genome/transcriptome/other omics data
+about: If you have genomes of species that are the focus of your research and they
+  have been sequenced but are not included in IMP, please do not hesitate to create
+  an issue using this template.
+title: ''
+labels: enhancement
+assignees: Tong-Chen
+
 ---
 
 ## Data feedback
